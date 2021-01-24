@@ -1,2 +1,3 @@
-# multiple-image-crud-codeigniter
-restfull multiple image crud in codeigniter
+# Multiple-image-crud-codeigniter
+
+Restfull multiple image crud in codeigniter
